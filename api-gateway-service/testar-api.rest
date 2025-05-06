@@ -1,0 +1,10 @@
+### Criar usuário
+POST http://localhost:3000/user
+Content-Type: application/json
+
+{
+  "name": "User Teste",
+  "email": "email@teste.com",
+  "password": "senha123",
+  "cellPhone": "+55999999999"
+}

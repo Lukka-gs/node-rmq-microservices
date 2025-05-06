@@ -1,0 +1,9 @@
+# Dependências
+**/node_modules/
+**/dist/
+
+# Logs
+*.log
+
+# Docker volumes
+**/volumes/
